@@ -1,0 +1,15 @@
+#harvard {
+    color: #ff0000;
+}
+
+a[href*="yale.edu"] {
+    color: #0000ff;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
